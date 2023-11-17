@@ -14,7 +14,7 @@ cursor.execute('''
         name TEXT,
         price TEXT,
         stock TEXT,
-        description TEXT
+        description TEXT,
         image_url TEXT,
         supplier_id TEXT,
         categories TEXT,
